@@ -28,10 +28,3 @@ This is simple HTML donation website (without login) created with Razorpay. This
 
 ### Email reciept
 <img width="1171" alt="6" src="https://user-images.githubusercontent.com/60711014/125225491-08575600-e2ed-11eb-92b0-ce3225c234fb.png">
-
-
-#
-Hosted at https://task-3-go-narendra.000webhostapp.com/
-
-
-
