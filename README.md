@@ -26,5 +26,5 @@ This is simple HTML donation website (without login) created with Razorpay. This
 ### Successful payment (with payment ID at the bottom)
 <img width="1428" alt="5" src="https://user-images.githubusercontent.com/60711014/125225467-0097b180-e2ed-11eb-8416-5095d3aad650.png">
 
-### Email reciept
+### Email receipt
 <img width="1171" alt="6" src="https://user-images.githubusercontent.com/60711014/125225491-08575600-e2ed-11eb-92b0-ce3225c234fb.png">
